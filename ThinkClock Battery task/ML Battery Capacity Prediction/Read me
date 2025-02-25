@@ -1,0 +1,10 @@
+I utilized the NASA Battery Dataset to analyze and predict battery capacity. Since a single dataset contained limited data, 
+I merged four datasets: "07562.csv, 07563.csv, 07564.csv, and 07567.csv" to create a more comprehensive dataset for training and evaluation.
+
+To predict battery capacity, I employed a Machine Learning approach using the Random Forest Regression model. 
+This model was chosen due to its ability to handle complex relationships between features, robustness against overfitting, and high predictive accuracy. 
+After training and testing the model on the merged dataset, it achieved an impressive 99% accuracy in predicting battery capacity.
+
+The high accuracy indicates that the model effectively learns the relationship between input features
+(such as impedance, cycle count, voltage, and other battery characteristics) and battery capacity. This approach can be useful for battery health monitoring,
+lifespan estimation, and predictive maintenance, providing valuable insights for real-world applications.
