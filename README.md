@@ -1,1 +1,1 @@
-# ThinkClock_Battery_Lab
+I am happy that I am using my skills and knowledge to work on this project. It has been a great opportunity to learn and explore more about battery capacity prediction and related concepts. I am thankful to ThinkClock Battery Lab for assigning me this task and allowing me to grow through this experience.
